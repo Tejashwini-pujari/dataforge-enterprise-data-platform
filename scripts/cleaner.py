@@ -2,6 +2,7 @@ import pandas as pd
 from logger_config import logger
 
 
+
 def clean_data(df):
     """
     Cleans sales dataset.

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<employees>
+  <employee>
+    <employee_id>E001</employee_id>
+    <employee_name>Ravi Kumar</employee_name>
+    <department>Sales</department>
+    <salary>45000</salary>
+    <city>Bangalore</city>
+  </employee>
+  <employee>
+    <employee_id>E002</employee_id>
+    <employee_name>Priya Rao</employee_name>
+    <department>Hr</department>
+    <salary>50000</salary>
+    <city>Mysore</city>
+  </employee>
+  <employee>
+    <employee_id>E003</employee_id>
+    <employee_name>Unknown</employee_name>
+    <department>It</department>
+    <salary>65000</salary>
+    <city>Hubli</city>
+  </employee>
+  <employee>
+    <employee_id>E004</employee_id>
+    <employee_name>Sneha Patil</employee_name>
+    <department>General</department>
+    <salary>55000</salary>
+    <city>Unknown</city>
+  </employee>
+</employees>
